@@ -1,0 +1,6 @@
+Title,Priority,Due Date,Status
+Deploy initial release to production,HIGH,15-11-2026,Pending
+Update project documentation and README,HIGH,05-11-2026,Completed
+Write comprehensive unit tests,MEDIUM,01-11-2026,Completed
+Refactor database query optimization,MEDIUM,25-11-2026,Pending
+Conduct team backlog grooming,LOW,No Due Date,Pending

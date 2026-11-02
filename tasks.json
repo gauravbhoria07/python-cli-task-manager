@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Deploy initial release to production",
+        "completed": false,
+        "priority": "HIGH",
+        "due_date": "15-11-2026"
+    },
+    {
+        "title": "Update project documentation and README",
+        "completed": true,
+        "priority": "HIGH",
+        "due_date": "05-11-2026"
+    },
+    {
+        "title": "Write comprehensive unit tests",
+        "completed": true,
+        "priority": "MEDIUM",
+        "due_date": "01-11-2026"
+    },
+    {
+        "title": "Refactor database query optimization",
+        "completed": false,
+        "priority": "MEDIUM",
+        "due_date": "25-11-2026"
+    },
+    {
+        "title": "Conduct team backlog grooming",
+        "completed": false,
+        "priority": "LOW",
+        "due_date": "No Due Date"
+    }
+]
